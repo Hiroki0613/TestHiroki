@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         
         print("Apple")
         print("Octopus")
+        print("Orange")
         // Do any additional setup after loading the view.
     }
 
