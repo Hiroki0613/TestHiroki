@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Apple")
+        print("Orange")
         // Do any additional setup after loading the view.
     }
 
